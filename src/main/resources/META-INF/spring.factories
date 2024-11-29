@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.snappyerp.system.logging_framework.LoggingFrameworkAutoConfiguration
